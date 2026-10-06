@@ -88,8 +88,8 @@ lib/
 
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/votre-compte/e_instru.git
-   cd e_instru
+   git clone https://github.com/ALLCLAD/Shop_Verse.git
+   cd Shop_Verse
    ```
 
 2. **Installer les dépendances** :
