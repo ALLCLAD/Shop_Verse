@@ -13,22 +13,15 @@
 
 ## 📸 Aperçu de l'Application
 
-### Logo & Écran de Démarrage
+<div align="center">
+  <img src="assets/images/shopVerse.png" alt="Logo ShopVerse" width="140" style="border-radius: 12px; margin-bottom: 20px;" />
+</div>
 
-<p align="center">
-  <img src="assets/images/shopVerse.png" alt="Logo ShopVerse" width="160" />
-  <br>
-  <img src="assets/images/splash_screen.png" alt="Splash Screen" width="220" />
-</p>
+<br>
 
-### Parcours Utilisateur & Écrans Principaux
-
-<p align="center">
-  <img src="assets/images/catalogue_page.png" alt="Catalogue" width="200" />
-  <img src="assets/images/product_détails_page.png" alt="Détails Produit" width="200" />
-  <img src="assets/images/favorites_list_page.png" alt="Liste des Favoris" width="200" />
-  <img src="assets/images/cart_page.png" alt="Panier d'Achat" width="200" />
-</p>
+| Écran de Démarrage | Catalogue Produit | Fiche Produit | Liste des Favoris | Panier d'Achat |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="assets/images/splash_screen.png" width="170" alt="Splash Screen"/> | <img src="assets/images/catalogue_page.png" width="170" alt="Catalogue"/> | <img src="assets/images/product_détails_page.png" width="170" alt="Détails Produit"/> | <img src="assets/images/favorites_list_page.png" width="170" alt="Favoris"/> | <img src="assets/images/cart_page.png" width="170" alt="Panier"/> |
 
 ---
 
@@ -118,8 +111,3 @@ Ce projet a été conçu pour servir de **modèle / starter kit**. Sentez-vous l
 - Adapter le thème graphique (`lib/widgets/colors.dart`).
 - Remplacer les données de test ou les services SQLite (`lib/services/`) par vos propres API endpoints.
 
----
-
-## 📝 Licence
-
-Ce projet est disponible sous licence **MIT**. Vous pouvez l'utiliser et le modifier librement pour vos projets personnels ou commerciaux.
